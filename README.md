@@ -1,2 +1,4 @@
 # DSWR
-A repo to deposit teaching materials for Data Science with R
+A repo to share teaching materials for Data Science with R.
+
+
