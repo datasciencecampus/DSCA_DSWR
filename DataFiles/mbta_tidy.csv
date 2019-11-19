@@ -1,0 +1,465 @@
+mode,year,month,NrPassengers
+Boat,2007,1,4
+Boat,2007,2,3.6
+Boat,2007,3,40
+Boat,2007,4,4.3
+Boat,2007,5,4.9
+Boat,2007,6,5.8
+Boat,2007,7,6.521
+Boat,2007,8,6.572
+Boat,2007,9,5.469
+Boat,2007,10,5.145
+Boat,2007,11,3.763
+Boat,2007,12,2.985
+Boat,2008,1,3.175
+Boat,2008,2,3.111
+Boat,2008,3,3.512
+Boat,2008,4,4.164
+Boat,2008,5,4.015
+Boat,2008,6,5.189
+Boat,2008,7,6.016
+Boat,2008,8,5.8
+Boat,2008,9,4.587
+Boat,2008,10,4.285
+Boat,2008,11,3.488
+Boat,2008,12,3.007
+Boat,2009,1,3.014
+Boat,2009,2,3.196
+Boat,2009,3,3.33
+Boat,2009,4,4.049
+Boat,2009,5,4.119
+Boat,2009,6,4.9
+Boat,2009,7,6.444
+Boat,2009,8,5.903
+Boat,2009,9,4.696
+Boat,2009,10,4.212
+Boat,2009,11,3.576
+Boat,2009,12,3.113
+Boat,2010,1,3.207
+Boat,2010,2,3.195
+Boat,2010,3,3.481
+Boat,2010,4,4.452
+Boat,2010,5,4.415
+Boat,2010,6,5.411
+Boat,2010,7,6.513
+Boat,2010,8,6.269
+Boat,2010,9,4.699
+Boat,2010,10,4.402
+Boat,2010,11,3.731
+Boat,2010,12,3.156
+Boat,2011,1,3.14
+Boat,2011,2,3.284
+Boat,2011,3,3.674
+Boat,2011,4,4.251
+Boat,2011,5,4.431
+Boat,2011,6,5.474
+Boat,2011,7,6.581
+Boat,2011,8,6.733
+Boat,2011,9,5.003
+Boat,2011,10,4.484
+Bus,2007,1,335.819
+Bus,2007,2,338.675
+Bus,2007,3,339.867
+Bus,2007,4,352.162
+Bus,2007,5,354.367
+Bus,2007,6,350.543
+Bus,2007,7,357.519
+Bus,2007,8,355.479
+Bus,2007,9,372.598
+Bus,2007,10,368.847
+Bus,2007,11,330.826
+Bus,2007,12,312.92
+Bus,2008,1,340.324
+Bus,2008,2,352.905
+Bus,2008,3,361.155
+Bus,2008,4,368.189
+Bus,2008,5,363.903
+Bus,2008,6,362.962
+Bus,2008,7,370.921
+Bus,2008,8,361.057
+Bus,2008,9,389.537
+Bus,2008,10,357.974
+Bus,2008,11,345.423
+Bus,2008,12,325.767
+Bus,2009,1,338.532
+Bus,2009,2,360.412
+Bus,2009,3,353.686
+Bus,2009,4,359.38
+Bus,2009,5,354.75
+Bus,2009,6,347.865
+Bus,2009,7,339.477
+Bus,2009,8,332.661
+Bus,2009,9,374.26
+Bus,2009,10,385.868
+Bus,2009,11,366.98
+Bus,2009,12,332.394
+Bus,2010,1,362.226
+Bus,2010,2,361.138
+Bus,2010,3,373.443
+Bus,2010,4,378.611
+Bus,2010,5,380.171
+Bus,2010,6,363.275
+Bus,2010,7,353.04
+Bus,2010,8,343.688
+Bus,2010,9,381.622
+Bus,2010,10,384.987
+Bus,2010,11,367.955
+Bus,2010,12,326.338
+Bus,2011,1,334.958
+Bus,2011,2,346.234
+Bus,2011,3,380.399
+Bus,2011,4,380.446
+Bus,2011,5,385.289
+Bus,2011,6,376.317
+Bus,2011,7,361.585
+Bus,2011,8,353.793
+Bus,2011,9,388.271
+Bus,2011,10,398.456
+Commuter Rail,2007,1,142.2
+Commuter Rail,2007,2,138.5
+Commuter Rail,2007,3,137.7
+Commuter Rail,2007,4,139.5
+Commuter Rail,2007,5,139
+Commuter Rail,2007,6,143
+Commuter Rail,2007,7,142.391
+Commuter Rail,2007,8,142.364
+Commuter Rail,2007,9,143.051
+Commuter Rail,2007,10,146.542
+Commuter Rail,2007,11,145.089
+Commuter Rail,2007,12,141.585
+Commuter Rail,2008,1,142.145
+Commuter Rail,2008,2,142.607
+Commuter Rail,2008,3,137.453
+Commuter Rail,2008,4,140.389
+Commuter Rail,2008,5,142.585
+Commuter Rail,2008,6,142.057
+Commuter Rail,2008,7,145.731
+Commuter Rail,2008,8,144.565
+Commuter Rail,2008,9,141.907
+Commuter Rail,2008,10,151.957
+Commuter Rail,2008,11,152.952
+Commuter Rail,2008,12,140.81
+Commuter Rail,2009,1,141.448
+Commuter Rail,2009,2,143.529
+Commuter Rail,2009,3,142.893
+Commuter Rail,2009,4,142.34
+Commuter Rail,2009,5,144.225
+Commuter Rail,2009,6,142.006
+Commuter Rail,2009,7,137.691
+Commuter Rail,2009,8,139.158
+Commuter Rail,2009,9,139.087
+Commuter Rail,2009,10,137.104
+Commuter Rail,2009,11,129.343
+Commuter Rail,2009,12,126.066
+Commuter Rail,2010,1,130.91
+Commuter Rail,2010,2,131.918
+Commuter Rail,2010,3,131.252
+Commuter Rail,2010,4,131.722
+Commuter Rail,2010,5,128.8
+Commuter Rail,2010,6,129.144
+Commuter Rail,2010,7,122.935
+Commuter Rail,2010,8,129.732
+Commuter Rail,2010,9,132.892
+Commuter Rail,2010,10,131.033
+Commuter Rail,2010,11,130.889
+Commuter Rail,2010,12,121.422
+Commuter Rail,2011,1,128.396
+Commuter Rail,2011,2,125.463
+Commuter Rail,2011,3,134.374
+Commuter Rail,2011,4,134.169
+Commuter Rail,2011,5,136.14
+Commuter Rail,2011,6,135.581
+Commuter Rail,2011,7,132.41
+Commuter Rail,2011,8,130.616
+Commuter Rail,2011,9,136.901
+Commuter Rail,2011,10,128.72
+Heavy Rail,2007,1,435.294
+Heavy Rail,2007,2,448.271
+Heavy Rail,2007,3,458.583
+Heavy Rail,2007,4,472.201
+Heavy Rail,2007,5,474.579
+Heavy Rail,2007,6,477.032
+Heavy Rail,2007,7,471.735
+Heavy Rail,2007,8,461.605
+Heavy Rail,2007,9,499.566
+Heavy Rail,2007,10,457.741
+Heavy Rail,2007,11,488.348
+Heavy Rail,2007,12,448.268
+Heavy Rail,2008,1,472.624
+Heavy Rail,2008,2,492.1
+Heavy Rail,2008,3,494.046
+Heavy Rail,2008,4,513.204
+Heavy Rail,2008,5,507.952
+Heavy Rail,2008,6,518.349
+Heavy Rail,2008,7,512.309
+Heavy Rail,2008,8,476.99
+Heavy Rail,2008,9,517.324
+Heavy Rail,2008,10,523.644
+Heavy Rail,2008,11,487.115
+Heavy Rail,2008,12,446.743
+Heavy Rail,2009,1,461.004
+Heavy Rail,2009,2,482.407
+Heavy Rail,2009,3,467.224
+Heavy Rail,2009,4,493.152
+Heavy Rail,2009,5,475.634
+Heavy Rail,2009,6,473.099
+Heavy Rail,2009,7,470.828
+Heavy Rail,2009,8,466.676
+Heavy Rail,2009,9,500.403
+Heavy Rail,2009,10,513.406
+Heavy Rail,2009,11,480.278
+Heavy Rail,2009,12,440.925
+Heavy Rail,2010,1,464.069
+Heavy Rail,2010,2,480.121
+Heavy Rail,2010,3,483.397
+Heavy Rail,2010,4,502.374
+Heavy Rail,2010,5,487.4
+Heavy Rail,2010,6,490.263
+Heavy Rail,2010,7,488.587
+Heavy Rail,2010,8,473.731
+Heavy Rail,2010,9,521.099
+Heavy Rail,2010,10,532.403
+Heavy Rail,2010,11,502.887
+Heavy Rail,2010,12,450.433
+Heavy Rail,2011,1,468.418
+Heavy Rail,2011,2,504.068
+Heavy Rail,2011,3,516.73
+Heavy Rail,2011,4,528.631
+Heavy Rail,2011,5,528.122
+Heavy Rail,2011,6,529.528
+Heavy Rail,2011,7,532.888
+Heavy Rail,2011,8,508.145
+Heavy Rail,2011,9,550.137
+Heavy Rail,2011,10,554.932
+Light Rail,2007,1,227.231
+Light Rail,2007,2,240.262
+Light Rail,2007,3,241.444
+Light Rail,2007,4,255.557
+Light Rail,2007,5,248.262
+Light Rail,2007,6,246.108
+Light Rail,2007,7,243.286
+Light Rail,2007,8,234.907
+Light Rail,2007,9,265.748
+Light Rail,2007,10,241.434
+Light Rail,2007,11,250.497
+Light Rail,2007,12,233.379
+Light Rail,2008,1,241.223
+Light Rail,2008,2,249.306
+Light Rail,2008,3,253.132
+Light Rail,2008,4,271.07
+Light Rail,2008,5,258.351
+Light Rail,2008,6,266.961
+Light Rail,2008,7,270.158
+Light Rail,2008,8,239.344
+Light Rail,2008,9,258.171
+Light Rail,2008,10,250.063
+Light Rail,2008,11,232.068
+Light Rail,2008,12,205.42
+Light Rail,2009,1,215.66
+Light Rail,2009,2,228.737
+Light Rail,2009,3,222.844
+Light Rail,2009,4,238.232
+Light Rail,2009,5,224.962
+Light Rail,2009,6,226.259
+Light Rail,2009,7,230.308
+Light Rail,2009,8,231.783
+Light Rail,2009,9,250.922
+Light Rail,2009,10,230.739
+Light Rail,2009,11,214.711
+Light Rail,2009,12,194.446
+Light Rail,2010,1,204.396
+Light Rail,2010,2,213.136
+Light Rail,2010,3,211.693
+Light Rail,2010,4,227.246
+Light Rail,2010,5,217.805
+Light Rail,2010,6,215.922
+Light Rail,2010,7,218.729
+Light Rail,2010,8,210.53
+Light Rail,2010,9,236.368
+Light Rail,2010,10,236.366
+Light Rail,2010,11,221.881
+Light Rail,2010,12,196.211
+Light Rail,2011,1,198.45
+Light Rail,2011,2,219.886
+Light Rail,2011,3,227.935
+Light Rail,2011,4,242.28
+Light Rail,2011,5,225.776
+Light Rail,2011,6,221.865
+Light Rail,2011,7,231.01
+Light Rail,2011,8,220.164
+Light Rail,2011,9,244.949
+Light Rail,2011,10,237.768
+Private Bus,2007,1,4.772
+Private Bus,2007,2,4.417
+Private Bus,2007,3,4.574
+Private Bus,2007,4,4.542
+Private Bus,2007,5,4.768
+Private Bus,2007,6,4.722
+Private Bus,2007,7,3.936
+Private Bus,2007,8,3.946
+Private Bus,2007,9,4.329
+Private Bus,2007,10,4.315
+Private Bus,2007,11,4.081
+Private Bus,2007,12,3.708
+Private Bus,2008,1,4.122
+Private Bus,2008,2,4.079
+Private Bus,2008,3,4.175
+Private Bus,2008,4,4.144
+Private Bus,2008,5,4.079
+Private Bus,2008,6,4.4
+Private Bus,2008,7,4.548
+Private Bus,2008,8,4.286
+Private Bus,2008,9,4.878
+Private Bus,2008,10,4.556
+Private Bus,2008,11,4.302
+Private Bus,2008,12,3.42
+Private Bus,2009,1,3.584
+Private Bus,2009,2,3.604
+Private Bus,2009,3,2.586
+Private Bus,2009,4,2.824
+Private Bus,2009,5,2.735
+Private Bus,2009,6,2.763
+Private Bus,2009,7,2.655
+Private Bus,2009,8,2.504
+Private Bus,2009,9,2.716
+Private Bus,2009,10,2.584
+Private Bus,2009,11,2.721
+Private Bus,2009,12,2.365
+Private Bus,2010,1,2.682
+Private Bus,2010,2,2.498
+Private Bus,2010,3,2.55
+Private Bus,2010,4,2.639
+Private Bus,2010,5,2.686
+Private Bus,2010,6,2.646
+Private Bus,2010,7,2.547
+Private Bus,2010,8,2.433
+Private Bus,2010,9,2.652
+Private Bus,2010,10,2.616
+Private Bus,2010,11,2.528
+Private Bus,2010,12,2.379
+Private Bus,2011,1,2.213
+Private Bus,2011,2,2.57
+Private Bus,2011,3,2.559
+Private Bus,2011,4,2.762
+Private Bus,2011,5,2.776
+Private Bus,2011,6,2.815
+Private Bus,2011,7,2.671
+Private Bus,2011,8,2.655
+Private Bus,2011,9,2.843
+Private Bus,2011,10,2.967
+RIDE,2007,1,4.9
+RIDE,2007,2,5
+RIDE,2007,3,5.5
+RIDE,2007,4,5.4
+RIDE,2007,5,5.4
+RIDE,2007,6,5.6
+RIDE,2007,7,5.253
+RIDE,2007,8,5.308
+RIDE,2007,9,5.609
+RIDE,2007,10,5.806
+RIDE,2007,11,5.667
+RIDE,2007,12,5.062
+RIDE,2008,1,5.535
+RIDE,2008,2,5.704
+RIDE,2008,3,6.164
+RIDE,2008,4,6.263
+RIDE,2008,5,6.279
+RIDE,2008,6,6.294
+RIDE,2008,7,6.028
+RIDE,2008,8,6.148
+RIDE,2008,9,6.503
+RIDE,2008,10,6.678
+RIDE,2008,11,6.41
+RIDE,2008,12,5.957
+RIDE,2009,1,5.991
+RIDE,2009,2,6.708
+RIDE,2009,3,6.675
+RIDE,2009,4,6.734
+RIDE,2009,5,6.693
+RIDE,2009,6,6.79
+RIDE,2009,7,6.249
+RIDE,2009,8,6.423
+RIDE,2009,9,6.69
+RIDE,2009,10,6.897
+RIDE,2009,11,6.565
+RIDE,2009,12,6.454
+RIDE,2010,1,6.516
+RIDE,2010,2,6.665
+RIDE,2010,3,7.066
+RIDE,2010,4,7.166
+RIDE,2010,5,7.1
+RIDE,2010,6,7.46
+RIDE,2010,7,6.965
+RIDE,2010,8,7.045
+RIDE,2010,9,7.349
+RIDE,2010,10,7.646
+RIDE,2010,11,7.444
+RIDE,2010,12,7.199
+RIDE,2011,1,6.735
+RIDE,2011,2,7.463
+RIDE,2011,3,8.387
+RIDE,2011,4,8.145
+RIDE,2011,5,8.059
+RIDE,2011,6,8.377
+RIDE,2011,7,7.902
+RIDE,2011,8,8.071
+RIDE,2011,9,8.318
+RIDE,2011,10,8.598
+Trackless Trolley,2007,1,12.757
+Trackless Trolley,2007,2,12.913
+Trackless Trolley,2007,3,13.057
+Trackless Trolley,2007,4,13.444
+Trackless Trolley,2007,5,13.479
+Trackless Trolley,2007,6,13.323
+Trackless Trolley,2007,7,13.311
+Trackless Trolley,2007,8,13.142
+Trackless Trolley,2007,9,14.393
+Trackless Trolley,2007,10,14.622
+Trackless Trolley,2007,11,13.624
+Trackless Trolley,2007,12,12.41
+Trackless Trolley,2008,1,13.902
+Trackless Trolley,2008,2,14.172
+Trackless Trolley,2008,3,14.394
+Trackless Trolley,2008,4,14.722
+Trackless Trolley,2008,5,14.427
+Trackless Trolley,2008,6,14.515
+Trackless Trolley,2008,7,14.392
+Trackless Trolley,2008,8,13.716
+Trackless Trolley,2008,9,15.109
+Trackless Trolley,2008,10,13.014
+Trackless Trolley,2008,11,12.596
+Trackless Trolley,2008,12,11.91
+Trackless Trolley,2009,1,12.301
+Trackless Trolley,2009,2,9.645
+Trackless Trolley,2009,3,11.674
+Trackless Trolley,2009,4,11.326
+Trackless Trolley,2009,5,12.49
+Trackless Trolley,2009,6,12.382
+Trackless Trolley,2009,7,11.426
+Trackless Trolley,2009,8,12.05
+Trackless Trolley,2009,9,12.79
+Trackless Trolley,2009,10,13.252
+Trackless Trolley,2009,11,12.651
+Trackless Trolley,2009,12,11.62
+Trackless Trolley,2010,1,12.265
+Trackless Trolley,2010,2,12.558
+Trackless Trolley,2010,3,12.673
+Trackless Trolley,2010,4,13.017
+Trackless Trolley,2010,5,12.771
+Trackless Trolley,2010,6,11.473
+Trackless Trolley,2010,7,6.584
+Trackless Trolley,2010,8,6.316
+Trackless Trolley,2010,9,6.436
+Trackless Trolley,2010,10,6.819
+Trackless Trolley,2010,11,6.415
+Trackless Trolley,2010,12,5.777
+Trackless Trolley,2011,1,11.104
+Trackless Trolley,2011,2,11.695
+Trackless Trolley,2011,3,12.601
+Trackless Trolley,2011,4,12.599
+Trackless Trolley,2011,5,12.291
+Trackless Trolley,2011,6,12.128
+Trackless Trolley,2011,7,11.06
+Trackless Trolley,2011,8,11.091
+Trackless Trolley,2011,9,12.332
+Trackless Trolley,2011,10,12.297
