@@ -3,6 +3,6 @@ A repo to share teaching materials for Data Science with R.
 
 The order of the material taught in DSWR is
 
-1. DSWRcourseNotesDay1
-2. DSWRcourseNotesDay2
-3. DSWRcourseNotesDay2PM
+1. DSWR1courseNotesDay1.html
+2. DSWR1courseNotesDay2.html
+3. DSWRcourseNotesDay2PM.html
