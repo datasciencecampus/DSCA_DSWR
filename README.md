@@ -42,10 +42,10 @@ Data analysis practitioners working in Government who use other systems for thei
 **Pre-requisites** 
 
 Participants must be familiar with the basic R syntax, object types and  be able to use and be familiar with RStudio.
-Please,  \href{https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf}{print this base R cheat sheet}. You should be fairly comfortable with the functions in this cheatsheet except perhaps what is listed in the third column of the sheets.
+Please, print the base R cheat sheet in https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf. You should be fairly comfortable with the functions in this cheatsheet except perhaps what is listed in the third column of the sheets.
 
 RStudio has some free online learning resources and links that give an introduction to R and RStudio.
 
-\url{https://education.rstudio.com/learn/beginner/}
+https://education.rstudio.com/learn/beginner/
 
 
