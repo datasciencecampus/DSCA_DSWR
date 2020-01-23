@@ -9,7 +9,7 @@ The order of the material taught in DSWR is
 
 **Data Science with R - Course Description and pre-requisites**
 
-This course gives the essential knowledge to get started with a data science project in R using the https://www.tidyverse.org Tidyverse https://www.tidyverse.org.
+This course gives the essential knowledge to get started with a data science project in R using the Tidyverse https://www.tidyverse.org.
 
 We learn to tell stories with data using the scientific data analysis workflow and analytic tools based on the R system.
 
