@@ -41,11 +41,6 @@ At the end of this course participants will be able to:
 * Face to face - Available
 
 
-The order of the material taught in DSWR is
-1. DSWR1courseNotesDay1.html
-2. DSWR1courseNotesDay2.html
-3. DSWRcourseNotesDay2PM.html
-
 **Skill Level**  
 Beginner. Familiar with basic R syntax.
 
@@ -70,7 +65,7 @@ and how the Tidyverse, a collection of R packages specifically developed for con
 The focus of the course is on the reflection, collection and preparation stages of the data science process. We learn about importing data presented in almost any format into R, a standard concept of tidy data and how to transform messy data sets into tidy ones, and how to explore a data set, using techniques such as visualisation and other tools, so that it is ready for analysis. The approach is hands-on using case-studies.
 
 
-
+The order of the material taught in DSWR is 1. DSWR1courseNotesDay1.html 2. DSWR1courseNotesDay2.html 3. DSWRcourseNotesDay2PM.html
 
 
 
