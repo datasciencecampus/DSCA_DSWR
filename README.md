@@ -1,26 +1,23 @@
-# DSWR
-A repo to share teaching materials for Data Science with R.
+# Data Science with R
+### Version 1.0
 
-The order of the material taught in DSWR is
+**Course Summary**
+This course gives the essential knowledge to get started with a data science project in R using the Tidyverse package (https://www.tidyverse.org). We will learn to tell stories with data using the scientific data analysis workflow and analytic tools based on the R system.
 
-1. DSWR1courseNotesDay1.html
-2. DSWR1courseNotesDay2.html
-3. DSWRcourseNotesDay2PM.html
+**Learning Objective**
+Learners will be able to use the Tidyverse to automate tasks efficiently. They will learn how to use best practice techniques in their workflow from data ingestion through to communication of results. 
 
-**Data Science with R - Course Description and pre-requisites**
+**Lead Developer**
+Sonia Mazzi
 
-This course gives the essential knowledge to get started with a data science project in R using the Tidyverse https://www.tidyverse.org.
+**Course Reviewer(s)**
+Pending
 
-We learn to tell stories with data using the scientific data analysis workflow and analytic tools based on the R system.
+**Intended audience**
 
-In this two-day course we learn about the data science workflow 
+Data analysis practitioners working in Government who use other systems for their work with an interest in migrating to R. If you have never used R before or have very limited experience, please follow the recommendations below in pre-requisites.
 
-Reflection -  Collection - Preparation - Analysis - Reporting
-
-and how the Tidyverse, a collection of R packages specifically developed for contemporary data science, assists at each stage of the flow in a  standardised, coherent and reproducible way.
-
-The focus of the course is on the reflection, collection and preparation stages of the data science process. We learn about importing data presented in almost any format into R, a standard concept of tidy data and how to transform messy data sets into tidy ones, and how to explore a data set, using techniques such as visualisation and other tools, so that it is ready for analysis. The approach is hands-on using case-studies.
-
+**Learning Objective Detail**
 At the end of this course participants will be able to:
 
 * Understand the scientific approach to the data analysis workflow and why and how R contributes to the process.
@@ -35,17 +32,43 @@ At the end of this course participants will be able to:
 
 * Work with the Tidyverse packages readr, tidyr, dplyr, stringr, ggplot2, forcats, lubridate, etc.
 
-**Intended audience**
 
-Data analysis practitioners working in Government who use other systems for their work with an interest in migrating to R. If you have never used R before or have very limited experience, please follow the recommendations below in pre-requisites.
+**Course Type**
+* E learning - Not Available
+* Self learning - Not Available
+* Face to face - Available
 
-**Pre-requisites** 
+
+The order of the material taught in DSWR is
+1. DSWR1courseNotesDay1.html
+2. DSWR1courseNotesDay2.html
+3. DSWRcourseNotesDay2PM.html
+
+**Skill Level**
+Beginner. Familiar with basic R syntax.
+
+**Pre requisite summary** 
 
 Participants must be familiar with the basic R syntax, object types and  be able to use and be familiar with RStudio.
-Please, print the base R cheat sheet in https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf. You should be fairly comfortable with the functions in this cheatsheet except perhaps what is listed in the third column of the sheets.
+Please, print the base R cheat sheet in https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf. You should be fairly comfortable with the functions in this cheatsheet except perhaps what is listed in the third column of the sheets. RStudio has some free online learning resources and links that give an introduction to R and RStudio. https://education.rstudio.com/learn/beginner/
 
-RStudio has some free online learning resources and links that give an introduction to R and RStudio.
 
-https://education.rstudio.com/learn/beginner/
+**Data Science with R - Course Description**
+
+This course gives the essential knowledge to get started with a data science project in R using the Tidyverse https://www.tidyverse.org.
+
+We learn to tell stories with data using the scientific data analysis workflow and analytic tools based on the R system.
+
+In this two-day course we learn about the data science workflow 
+
+Reflection -  Collection - Preparation - Analysis - Reporting
+
+and how the Tidyverse, a collection of R packages specifically developed for contemporary data science, assists at each stage of the flow in a  standardised, coherent and reproducible way.
+
+The focus of the course is on the reflection, collection and preparation stages of the data science process. We learn about importing data presented in almost any format into R, a standard concept of tidy data and how to transform messy data sets into tidy ones, and how to explore a data set, using techniques such as visualisation and other tools, so that it is ready for analysis. The approach is hands-on using case-studies.
+
+
+
+
 
 
