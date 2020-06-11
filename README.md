@@ -10,9 +10,11 @@ This course gives the essential knowledge to get started with a data science pro
 Learners will be able to use the Tidyverse to automate tasks efficiently. They will learn how to use best practice techniques in their workflow from data ingestion through to communication of results. 
 
 **Lead Developer**  
+
 Sonia Mazzi
 
 **Course Reviewer(s)**  
+
 Pending
 
 **Intended audience**  
@@ -20,6 +22,7 @@ Pending
 Data analysis practitioners working in Government who use other systems for their work with an interest in migrating to R. If you have never used R before or have very limited experience, please follow the recommendations below in pre-requisites.
 
 **Learning Objective Detail**  
+
 At the end of this course participants will be able to:
 
 * Understand the scientific approach to the data analysis workflow and why and how R contributes to the process.
@@ -36,12 +39,14 @@ At the end of this course participants will be able to:
 
 
 **Course Type**  
+
 * E learning - Not Available
 * Self learning - Not Available
 * Face to face - Available
 
 
 **Skill Level**  
+
 Beginner. Familiar with basic R syntax.
 
 **Pre requisite summary**  
