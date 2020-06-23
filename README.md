@@ -5,7 +5,7 @@
 
 This course gives the essential knowledge to get started with a data science project in R using the Tidyverse package (https://www.tidyverse.org). We will learn to tell stories with data using the scientific data analysis workflow and analytic tools based on the R system.
 
-**Learning Objective**  
+**Course Objective**  
 
 Learners will be able to use the Tidyverse to automate tasks efficiently. They will learn how to use best practice techniques in their workflow from data ingestion through to communication of results. 
 
