@@ -1,6 +1,10 @@
 # Data Science with R
 ### Version 1.0
 
+**Course Duration**
+
+12 Hours
+
 **Course Summary**  
 
 This course gives the essential knowledge to get started with a data science project in R using the Tidyverse package (https://www.tidyverse.org). We will learn to tell stories with data using the scientific data analysis workflow and analytic tools based on the R system.
